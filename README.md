@@ -12,6 +12,9 @@ QR Code Generator using Python3
 * **[Pyqrcode](https://pypi.org/project/PyQRCode/)**
 
 * **[PIL](https://pillow.readthedocs.io/en/4.2.x/reference/ImageTk.html)**
+```
+sudo apt install python3-pil.imagetk
+```
 
 * **[Pypng](https://pypi.org/project/pypng/)**
 
