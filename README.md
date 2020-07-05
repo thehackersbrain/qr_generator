@@ -8,6 +8,9 @@ QR Code Generator using Python3
 * **[Python3](https://www.python.org/downloads/)**
 
 * **[Tkinter](https://docs.python.org/3/library/tkinter.html)**
+```
+sudo apt install python3-tk
+```
 
 * **[Pyqrcode](https://pypi.org/project/PyQRCode/)**
 
